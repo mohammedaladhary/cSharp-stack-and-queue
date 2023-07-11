@@ -1,15 +1,30 @@
-C:\Users\TRA\Desktop\code_TRA\stack and queue\bin\Debug\net6.0\stack and queue.exe
-C:\Users\TRA\Desktop\code_TRA\stack and queue\bin\Debug\net6.0\stack and queue.deps.json
-C:\Users\TRA\Desktop\code_TRA\stack and queue\bin\Debug\net6.0\stack and queue.runtimeconfig.json
-C:\Users\TRA\Desktop\code_TRA\stack and queue\bin\Debug\net6.0\stack and queue.dll
-C:\Users\TRA\Desktop\code_TRA\stack and queue\bin\Debug\net6.0\stack and queue.pdb
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.csproj.AssemblyReference.cache
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.AssemblyInfoInputs.cache
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.AssemblyInfo.cs
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.csproj.CoreCompileInputs.cache
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.dll
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\refint\stack and queue.dll
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.pdb
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\stack and queue.genruntimeconfig.cache
-C:\Users\TRA\Desktop\code_TRA\stack and queue\obj\Debug\net6.0\ref\stack and queue.dll
+C:/Users/TRA/Desktop/code_TRA/stack and queue/bin/Debug/net6.0/stack and queue.exe
+C:/Users/TRA/Desktop/code_TRA/stack and queue/bin/Debug/net6.0/stack and queue.deps.json
+C:/Users/TRA/Desktop/code_TRA/stack and queue/bin/Debug/net6.0/stack and queue.runtimeconfig.json
+C:/Users/TRA/Desktop/code_TRA/stack and queue/bin/Debug/net6.0/stack and queue.dll
+C:/Users/TRA/Desktop/code_TRA/stack and queue/bin/Debug/net6.0/stack and queue.pdb
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.csproj.AssemblyReference.cache
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.AssemblyInfoInputs.cache
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.AssemblyInfo.cs
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.csproj.CoreCompileInputs.cache
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.dll
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/refint/stack and queue.dll
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.pdb
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/stack and queue.genruntimeconfig.cache
+C:/Users/TRA/Desktop/code_TRA/stack and queue/obj/Debug/net6.0/ref/stack and queue.dll
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/bin/Debug/net6.0/stack and queue
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/bin/Debug/net6.0/stack and queue.deps.json
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/bin/Debug/net6.0/stack and queue.runtimeconfig.json
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/bin/Debug/net6.0/stack and queue.dll
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/bin/Debug/net6.0/stack and queue.pdb
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.csproj.AssemblyReference.cache
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.AssemblyInfoInputs.cache
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.AssemblyInfo.cs
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.csproj.CoreCompileInputs.cache
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.dll
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/refint/stack and queue.dll
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.pdb
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/stack and queue.genruntimeconfig.cache
+/Users/mohammedaladhary/Documents/Visual_Studio/cSharp-stack-and-queue/obj/Debug/net6.0/ref/stack and queue.dll

@@ -6,16 +6,25 @@
         {
             Console.WriteLine("Hello, World!");
             //---------------------stack-----------------------
-            //Stack stack = new Stack(5);
+            Stack stack = new Stack(5);
 
+            ////inserting elements in the stack
             //stack.push(10);
             //stack.push(20);
             //stack.push(30);
             //stack.push(40);
             //stack.push(45);
+
+            //stack.PrintStack();
+            ////removing elements from the stack
             //stack.pop();
             //stack.pop();
-            //stack.peek();
+            //Console.WriteLine("Peek element is: "+stack.peek());
+            //stack.PrintStack();
+
+
+            //print Queue elements
+
 
             //---------------------queue----------------------
             Queue queue = new Queue(4);
@@ -30,7 +39,7 @@
             queue.queueDisplay();
 
             // queue is full
-            queue.enqueue(60); 
+            queue.enqueue(60);
 
             queue.dequeue();
             queue.dequeue();

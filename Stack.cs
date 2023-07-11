@@ -53,5 +53,21 @@ namespace stack_and_queue
         {
             return top >= elements.Length - 1;
         }
+        public void PrintStack()
+        {
+            if (top < 0)
+            {
+                Console.WriteLine("Stack Underflow");
+                return;
+            }
+            else
+            {
+                Console.WriteLine("Items in the Stack are :");
+                for (int i = top; i >= 0; i--)
+                {
+                    Console.WriteLine(elements[i]);
+                }
+            }
+        }
     }
 }
